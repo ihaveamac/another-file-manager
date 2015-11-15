@@ -1,7 +1,7 @@
 -- ihaveamac
 -- https://ianburgwin.net/
 -- https://gbatemp.net/members/ihaveamac.364799/
--- bugs can be reported at https://ianburgwin.net/bug
+-- bugs can be reported at https://github.com/ihaveamac/another-file-manager/issues
 
 -- hello! this script may not be very friendly to editing, due to my use of short variable names.
 -- I tried to clean it up before release but some may be left behind.
